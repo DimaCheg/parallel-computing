@@ -3,6 +3,8 @@
 #include "problems/mpi_tasks.h"
 
 int main() {
-    t2_ar_max();
+    //t1_hw();
+    //t2_ar_max();
+    //t3_PI();
     return 0;
 }
